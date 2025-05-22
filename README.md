@@ -4,8 +4,7 @@
 📱 Passionate about mobile development, especially iOS and Flutter.  
 🚀 Currently focused on expanding my skill set by learning Flutter.
 
-📂 Feel free to check out the organization below to follow my Flutter learning progress.
-👉 [flutter-journey-orhan](https://github.com/flutter-journey-orhan)
+👀 If you’d like to follow my progress in learning Flutter, feel free to explore the repositories prefixed with FlutterStart✨
 
 🔧 Tech I use:
 - Swift, SwiftUI
