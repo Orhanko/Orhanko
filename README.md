@@ -1,17 +1,19 @@
 ## Hi there 👋, I'm Orhan Pojskic
 
-🎓 Software Engineering graduate from the Polytechnic Faculty in Zenica.  
-📱 Passionate about mobile development, especially iOS and Flutter.  
-🚀 Currently focused on expanding my skill set by learning Flutter.
+- 🎓 Software Engineering graduate from the Polytechnic Faculty in Zenica.  
+- 📱 Passionate about mobile development, especially iOS and Flutter.  
+- 🚀 Currently focused on expanding my skill set by learning Flutter.
 
-👀 If you’d like to follow my progress in learning Flutter, feel free to explore the repositories prefixed with FlutterStart✨
+### 📌 The pinned repositories below showcase the iOS development projects I am most proud of.  
+❗️Please note that one additional project is kept in a private repository, as the application was developed for production use.
+### 👀 If you’d like to follow my progress in learning Flutter, feel free to explore the repositories prefixed with FlutterStart✨
 
-🔧 Tech I use:
+## 🔧 Tech I use:
 - Swift, SwiftUI
 - Flutter, Dart
 - Firebase, REST APIs
 
-Feel free to connect with me or check out my work!
+#### Feel free to connect with me or check out my work!
 
 <!--
 **Orhanko/Orhanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
